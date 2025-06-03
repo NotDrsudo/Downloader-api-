@@ -1,0 +1,12 @@
+{
+  "name": "drsudo-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.2"
+  }
+}
